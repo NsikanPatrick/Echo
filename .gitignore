@@ -1,0 +1,6 @@
+echo_env/
+*.pyc
+__pycache__
+.idea/
+*.log
+output.txt
