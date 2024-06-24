@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Hello!",
+      "answer": "Hey There"
+    },
+    {
+      "question": "What is you name?",
+      "answer": "My name is Echo, I am an ecommerce bot"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm fine, thanks for asking"
+    },
+    {
+      "question": "....",
+      "answer": "Elipses"
+    }
+  ]
+}
